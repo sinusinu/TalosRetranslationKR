@@ -7,7 +7,7 @@
 
 I recently played The Talos Principle and fell in love with it, but its Korean translation was downright horrible and made the game utterly unplayable. I made this mod to fix that. This mod is based on the English text of the game, and completely retranslated from ground up.
 
-Only the latest Steam version is guaranteed to work with this mod. Other platform/store versions might work but I give no guarantee.
+Tested and working on latest version on Steam. Other platform/store versions might work but I give no guarantee.
 
 # How to Install
 
@@ -27,7 +27,7 @@ Only the latest Steam version is guaranteed to work with this mod. Other platfor
 
 ![Terminal font size](images/terminal.jpg)
 
-# Status
+# Current Progress
 
 | Category | Progress |
 | --- | --- |
@@ -46,10 +46,10 @@ Only the latest Steam version is guaranteed to work with this mod. Other platfor
 
 # Future Plans
 
+- Proofread translated texts
+- Translate Road to Gehenna DLC
 - Replace Korean voiceover with English one and retranslate Subtitles
 
-- Translate Road to Gehenna
+# About Rights
 
-# Rights
-
-Beside reused existing translations, I (sinusinu) am the sole translator of this project. As a sole translator of this project, I hereby declare that I give up all the rights I might have on all my translation works on here. My translation texts are distributed as a public domain work.
+Beside reused existing translations, I (sinusinu) am the sole translator of this project. As a sole translator of this project, I hereby declare that I give up all the rights I might have on my translation works of this project. This translation works are distributed as a public domain work.
