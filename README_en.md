@@ -1,3 +1,14 @@
+# Deprecation Notice
+
+I was not able to work on this project for so long, and looks like the game is being blessed with a remaster!
+
+TP2's translation was relatively good, and the remaster seems to include a new chapter - so I have high hopes that they have revised the Korean translation.
+
+So the work on this project has officially halted, and I will be eagerly anticipating the release of the [The Talos Principle: Reawakened](https://store.steampowered.com/app/2806640/The_Talos_Principle_Reawakened/).
+
+<details>
+<summary>Original readme</summary>
+
 # sinusinu's Korean Retranslation Project of The Talos Principle
 
 ![Screenshot](images/1.jpg)
@@ -57,3 +68,5 @@ Tested and working on latest version on Steam. Other platform/store versions mig
 # About Rights
 
 Beside reused existing translations, I (sinusinu) am the sole translator of this project. As a sole translator of this project, I hereby declare that I give up all the rights I might have on my translation works of this project. This translation works are distributed as a public domain work.
+
+</details>

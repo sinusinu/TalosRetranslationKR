@@ -1,3 +1,16 @@
+# 작업 중단 안내
+
+개인적으로 시간이 없어 이래저래 한참을 손도 못 대고 있었는데, [The Talos Principle: Reawakened](https://store.steampowered.com/app/2806640/The_Talos_Principle_Reawakened/)가 발표됐네요.
+
+2의 번역이 비교적 준수했고, Reawakened에 게헨나로 가는 길 + 추가 챕터까지 포함된다 하니 이것도 번역을 새로 했을 거라고 간절히 믿습니다.
+
+이 프로젝트에는 이제 추가 작업을 중단하고, Reawakened가 정식 발매되면 상황을 보고 삭제할 예정입니다.
+
+감사합니다!
+
+<details>
+<summary>기존 소개 보기</summary>
+
 # 시누의 The Talos Principle 재한글화 프로젝트
 
 ![스크린샷](images/1.jpg)
@@ -59,3 +72,5 @@ Steam판의 최신 버전에서 정상 작동을 확인했으며, 다른 플랫�
 # 권리 포기 선언
 
 재사용된 기존 한국어 번역 텍스트를 제외한 새로운 번역 텍스트의 유일한 작업자인 저(sinusinu)는 제 번역 작업물에 대한 모든 권리를 포기합니다. 제 작업물은 퍼블릭 도메인으로 배포되며, 제 작업물에 한해서는 얼마든지 자유롭게 사용하실 수 있습니다.
+
+</details>
